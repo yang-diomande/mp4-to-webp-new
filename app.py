@@ -6,7 +6,7 @@ import base64
 
 st.set_page_config(page_title="MP4 to WebP 일괄 변환기", page_icon="🖼️", layout="centered")
 
-st.title("🖼️ MP4 to WebP 일괄 변환기")
+st.title("🖼️ MP4 to WebP 변환기")
 st.write("여러 MP4 파일을 선택하면 원본 파일명 그대로 일괄 변환하며 다운로드할 수 있습니다.")
 
 # 세션 상태 초기화 (다운로드 시 화면 리셋 방지용)
